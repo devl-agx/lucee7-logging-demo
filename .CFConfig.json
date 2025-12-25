@@ -1,0 +1,9 @@
+{
+  "loggers": {
+    "payment": {
+      "appender": "console",
+      "layout": "classic",
+      "level": "debug"
+    }
+  }
+}
